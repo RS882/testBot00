@@ -6,5 +6,8 @@ public class Main {
         System.out.println("world2");
         System.out.println("world2");
         System.out.println("world4");
+        System.out.println("world4");
+        System.out.println("world4");
+        System.out.println("world4");
     }
 }
