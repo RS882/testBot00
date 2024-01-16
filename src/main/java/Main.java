@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hi, IgorV is here");
         System.out.println("Hello World!");
         System.out.println("Hi, I am here");
+        System.out.println("Hi, I am here");
+        System.out.println("Hi, I am here");
     }
 }
