@@ -5,6 +5,6 @@ public class Main {
         System.out.println("world1");
         System.out.println("world2");
         System.out.println("world2");
-        System.out.println("Hi, IgorV is here");
+        System.out.println("Hi again");
     }
 }
